@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
