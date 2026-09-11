@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
