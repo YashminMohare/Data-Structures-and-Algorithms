@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
