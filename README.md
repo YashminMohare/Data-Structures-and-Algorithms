@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
