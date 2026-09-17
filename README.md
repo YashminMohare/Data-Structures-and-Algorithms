@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0835-image-overlap](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
