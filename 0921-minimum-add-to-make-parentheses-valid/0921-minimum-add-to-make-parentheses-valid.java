@@ -14,6 +14,6 @@ class Solution {
                 }
             }
         }
-        return add + open;
+        return add+open;
     }
 }
