@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
@@ -135,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [1096-brace-expansion-ii](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
