@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 ## Depth-First Search
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
