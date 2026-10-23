@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/YashminMohare/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
